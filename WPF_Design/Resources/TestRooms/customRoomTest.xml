@@ -1,0 +1,56 @@
+<RoomObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AddedObjects>
+    <BaseFurniture
+      xsi:type="Carpet">
+      <Id>1</Id>
+      <Name>Carpet</Name>
+      <Description>An old carpet.</Description>
+      <Color>Red</Color>
+      <Width>100</Width>
+      <Height>50</Height>
+      <CoordinateX>252.40289093298287</CoordinateX>
+      <CoordinateY>150.29172141918525</CoordinateY>
+      <Angle>0</Angle>
+    </BaseFurniture>
+    <BaseFurniture
+      xsi:type="Table">
+      <Id>2</Id>
+      <Name>Table</Name>
+      <Description>An object.</Description>
+      <Color>Brown</Color>
+      <Width>100</Width>
+      <Height>70</Height>
+      <CoordinateX>757.0651773981604</CoordinateX>
+      <CoordinateY>252.6149802890933</CoordinateY>
+      <Angle>0</Angle>
+      <Material>Wood</Material>
+    </BaseFurniture>
+  </AddedObjects>
+  <AuxiliaryObjects>
+    <BaseFurniture
+      xsi:type="Wall">
+      <Id>0</Id>
+      <Name>Wall</Name>
+      <Description>A wall.</Description>
+      <Color>Gray</Color>
+      <Width>908</Width>
+      <Height>20</Height>
+      <CoordinateX>38</CoordinateX>
+      <CoordinateY>13.5</CoordinateY>
+      <Angle>0</Angle>
+    </BaseFurniture>
+    <BaseFurniture
+      xsi:type="Wall">
+      <Id>0</Id>
+      <Name>Wall</Name>
+      <Description>A wall.</Description>
+      <Color>Gray</Color>
+      <Width>987</Width>
+      <Height>20</Height>
+      <CoordinateX>36</CoordinateX>
+      <CoordinateY>523.5</CoordinateY>
+      <Angle>0</Angle>
+    </BaseFurniture>
+  </AuxiliaryObjects>
+  <SelectedRoomType>custom</SelectedRoomType>
+</RoomObjects>

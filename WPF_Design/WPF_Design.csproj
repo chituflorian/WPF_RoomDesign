@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\back.png" />
+    <None Remove="Resources\blankRoom.png" />
+    <None Remove="Resources\edit.png" />
+    <None Remove="Resources\paperBackground.png" />
+    <None Remove="Resources\distance.png" />
+    <None Remove="Resources\room1.png" />
+    <None Remove="Resources\room2.png" />
+    <None Remove="Resources\room3.png" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="Extended.Wpf.Toolkit" Version="4.4.0" />
+    <PackageReference Include="PixiEditor.ColorPicker" Version="3.3.1" />
+    <PackageReference Include="System.Drawing.Common" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\back.png" />
+    <Resource Include="Resources\blankRoom.png" />
+    <Resource Include="Resources\distance.png" />
+    <Resource Include="Resources\edit.png" />
+    <Resource Include="Resources\filefolder.png" />
+    <Resource Include="Resources\new.png" />
+    <Resource Include="Resources\paperBackground.png" />
+    <Resource Include="Resources\room1.png" />
+    <Resource Include="Resources\room2.png" />
+    <Resource Include="Resources\room3.png" />
+    <Resource Include="Resources\save.png" />
+    <Resource Include="Resources\trash.png" />
+    <Resource Include="Resources\rotate.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,230 @@
+<ArrayOfBaseFurniture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BaseFurniture
+    xsi:type="Wall">
+	<Id>0</Id>
+    <Name>Wall</Name>
+    <Description>A wall.</Description>
+    <Color>Gray</Color>
+    <Width>20</Width>
+    <Height>540</Height>
+    <CoordinateX>0</CoordinateX>
+    <CoordinateY>0</CoordinateY>
+    <Angle>0</Angle>
+  </BaseFurniture>
+  <BaseFurniture
+    xsi:type="Wall">
+	<Id>0</Id>
+    <Name>Wall</Name>
+    <Description>A wall.</Description>
+    <Color>Gray</Color>
+    <Width>200</Width>
+    <Height>20</Height>
+    <CoordinateX>20</CoordinateX>
+    <CoordinateY>0</CoordinateY>
+    <Angle>0</Angle>
+  </BaseFurniture>
+  <BaseFurniture
+    xsi:type="Glass">
+	<Id>0</Id>
+    <Name>Glass window</Name>
+    <Description>A description</Description>
+    <Color>Blue</Color>
+    <Width>20</Width>
+    <Height>150</Height>
+    <CoordinateX>220</CoordinateX>
+    <CoordinateY>20</CoordinateY>
+    <Angle>270</Angle>
+  </BaseFurniture>
+  <BaseFurniture
+    xsi:type="Wall">
+	<Id>0</Id>
+    <Name>Wall</Name>
+    <Description>A wall.</Description>
+    <Color>Gray</Color>
+    <Width>450</Width>
+    <Height>20</Height>
+    <CoordinateX>370</CoordinateX>
+    <CoordinateY>0</CoordinateY>
+    <Angle>0</Angle>
+  </BaseFurniture>
+  <BaseFurniture
+    xsi:type="Door">
+	<Id>0</Id>
+    <Name>Door</Name>
+    <Description>A door</Description>
+    <Color>Brown</Color>
+    <Width>20</Width>
+    <Height>100</Height>
+    <CoordinateX>820</CoordinateX>
+    <CoordinateY>20</CoordinateY>
+    <Angle>270</Angle>
+  </BaseFurniture>
+  <BaseFurniture
+    xsi:type="Wall">
+	<Id>0</Id>
+    <Name>Wall</Name>
+    <Description>A wall.</Description>
+    <Color>Gray</Color>
+    <Width>130</Width>
+    <Height>20</Height>
+    <CoordinateX>920</CoordinateX>
+    <CoordinateY>0</CoordinateY>
+    <Angle>0</Angle>
+  </BaseFurniture>
+  <BaseFurniture
+    xsi:type="Wall">
+	<Id>0</Id>
+    <Name>Wall</Name>
+    <Description>A wall.</Description>
+    <Color>Gray</Color>
+    <Width>20</Width>
+    <Height>150</Height>
+    <CoordinateX>1030</CoordinateX>
+    <CoordinateY>20</CoordinateY>
+    <Angle>0</Angle>
+  </BaseFurniture>
+  <BaseFurniture
+    xsi:type="Glass">
+	<Id>0</Id>
+    <Name>Glass window</Name>
+    <Description>A description</Description>
+    <Color>Blue</Color>
+    <Width>20</Width>
+    <Height>150</Height>
+    <CoordinateX>1030</CoordinateX>
+    <CoordinateY>170</CoordinateY>
+    <Angle>0</Angle>
+  </BaseFurniture>
+  <BaseFurniture
+    xsi:type="Wall">
+	<Id>0</Id>
+    <Name>Wall</Name>
+    <Description>A wall.</Description>
+    <Color>Gray</Color>
+    <Width>20</Width>
+    <Height>220</Height>
+    <CoordinateX>1030</CoordinateX>
+    <CoordinateY>320</CoordinateY>
+    <Angle>0</Angle>
+  </BaseFurniture>
+  <BaseFurniture
+    xsi:type="Wall">
+	<Id>0</Id>
+    <Name>Wall</Name>
+    <Description>A wall.</Description>
+    <Color>Gray</Color>
+    <Width>150</Width>
+    <Height>20</Height>
+    <CoordinateX>0</CoordinateX>
+    <CoordinateY>520</CoordinateY>
+    <Angle>0</Angle>
+  </BaseFurniture>
+  <BaseFurniture
+    xsi:type="Glass">
+	<Id>0</Id>
+    <Name>Glass window</Name>
+    <Description>A description</Description>
+    <Color>Blue</Color>
+    <Width>20</Width>
+    <Height>200</Height>
+    <CoordinateX>150</CoordinateX>
+    <CoordinateY>540</CoordinateY>
+    <Angle>270</Angle>
+  </BaseFurniture>
+  <BaseFurniture
+    xsi:type="Wall">
+	<Id>0</Id>
+    <Name>Wall</Name>
+    <Description>A wall.</Description>
+    <Color>Gray</Color>
+    <Width>300</Width>
+    <Height>20</Height>
+    <CoordinateX>350</CoordinateX>
+    <CoordinateY>520</CoordinateY>
+    <Angle>0</Angle>
+  </BaseFurniture>
+  <BaseFurniture
+    xsi:type="Glass">
+	<Id>0</Id>
+    <Name>Glass window</Name>
+    <Description>A description</Description>
+    <Color>Blue</Color>
+    <Width>20</Width>
+    <Height>220</Height>
+    <CoordinateX>650</CoordinateX>
+    <CoordinateY>540</CoordinateY>
+    <Angle>270</Angle>
+  </BaseFurniture>
+  <BaseFurniture
+    xsi:type="Wall">
+	<Id>0</Id>
+    <Name>Wall</Name>
+    <Description>A wall.</Description>
+    <Color>Gray</Color>
+    <Width>180</Width>
+    <Height>20</Height>
+    <CoordinateX>870</CoordinateX>
+    <CoordinateY>520</CoordinateY>
+    <Angle>0</Angle>
+  </BaseFurniture>
+  <BaseFurniture
+    xsi:type="Wall">
+	<Id>0</Id>
+    <Name>Wall</Name>
+    <Description>A wall.</Description>
+    <Color>Gray</Color>
+    <Width>420</Width>
+    <Height>20</Height>
+    <CoordinateX>20</CoordinateX>
+    <CoordinateY>250</CoordinateY>
+    <Angle>0</Angle>
+  </BaseFurniture>
+  <BaseFurniture
+    xsi:type="Wall">
+	<Id>0</Id>
+    <Name>Wall</Name>
+    <Description>A wall.</Description>
+    <Color>Gray</Color>
+    <Width>20</Width>
+    <Height>120</Height>
+    <CoordinateX>420</CoordinateX>
+    <CoordinateY>20</CoordinateY>
+    <Angle>0</Angle>
+  </BaseFurniture>
+  <BaseFurniture
+    xsi:type="Door">
+	<Id>0</Id>
+    <Name>Door</Name>
+    <Description>A door</Description>
+    <Color>Brown</Color>
+    <Width>20</Width>
+    <Height>110</Height>
+    <CoordinateX>420</CoordinateX>
+    <CoordinateY>140</CoordinateY>
+    <Angle>0</Angle>
+  </BaseFurniture>
+  <BaseFurniture
+    xsi:type="Wall">
+	<Id>0</Id>
+    <Name>Wall</Name>
+    <Description>A wall.</Description>
+    <Color>Gray</Color>
+    <Width>20</Width>
+    <Height>140</Height>
+    <CoordinateX>420</CoordinateX>
+    <CoordinateY>270</CoordinateY>
+    <Angle>0</Angle>
+  </BaseFurniture>
+  <BaseFurniture
+    xsi:type="Door">
+	<Id>0</Id>
+    <Name>Door</Name>
+    <Description>A door</Description>
+    <Color>Brown</Color>
+    <Width>20</Width>
+    <Height>110</Height>
+    <CoordinateX>420</CoordinateX>
+    <CoordinateY>410</CoordinateY>
+    <Angle>0</Angle>
+  </BaseFurniture>
+</ArrayOfBaseFurniture>

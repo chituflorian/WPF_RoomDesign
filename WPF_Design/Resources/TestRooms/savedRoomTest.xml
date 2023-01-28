@@ -1,0 +1,31 @@
+<RoomObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AddedObjects>
+    <BaseFurniture
+      xsi:type="Flower">
+      <Id>1</Id>
+      <Name>Flower</Name>
+      <Description>A flower in a pot.</Description>
+      <Color>Green</Color>
+      <Width>60</Width>
+      <Height>60</Height>
+      <CoordinateX>523.6091984231275</CoordinateX>
+      <CoordinateY>42.00788436268063</CoordinateY>
+      <Angle>0</Angle>
+    </BaseFurniture>
+    <BaseFurniture
+      xsi:type="Desk">
+      <Id>2</Id>
+      <Name>Desk</Name>
+      <Description>A desk.</Description>
+      <Color>#FF541111</Color>
+      <Width>100</Width>
+      <Height>100</Height>
+      <CoordinateX>894.1584756898819</CoordinateX>
+      <CoordinateY>397.6557161629436</CoordinateY>
+      <Angle>0</Angle>
+      <Material>Wood</Material>
+    </BaseFurniture>
+  </AddedObjects>
+  <AuxiliaryObjects />
+  <SelectedRoomType>room2</SelectedRoomType>
+</RoomObjects>
